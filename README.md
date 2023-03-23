@@ -62,5 +62,5 @@ A unique IT professional delved into the domain of social research to weave and 
 </p>  
 
 <p align="center" width="100%">
-    <img width="50%" src="https://github.com/aparajita37/aparajita.github.io/blob/main/Images/Residuals%20and%20Fitted%20Value%20curve.jpg">
+    <img width="50%" src="./Images/Residuals%20and%20Fitted%20Value%20curve.jpg">
 </p>
